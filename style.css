@@ -130,3 +130,34 @@ header{
     font-size: 24px;
     font-weight: bold;
 }
+
+#section4{
+    padding:70px 100px;
+}
+
+#section4 .action{
+    background-color: #3882f6;
+    border-radius: 6px;
+    padding:30px 60px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.leftaction{
+    color:white;
+}
+.leftaction p {
+    color:#e5e7eb;
+}
+
+.rightaction button{
+    padding:4px 20px;
+    border: 2px solid white;
+    border-radius: 6px;
+    background: none;
+    color:white;
+    cursor: pointer;
+}
